@@ -2,19 +2,18 @@
 
 ### Objective
 
-Analyze retail transaction data to identify the primary drivers of
-profitability across product categories, pricing strategies, seasonal
-demand, and regions.
+Analyze retail transaction data to identify the primary drivers of revenue and profit across product categories and regions. 
+The goal is to highlight structural profitability issues and identify potential opportunities for improving margins and operational planning.
 
 \---
 
 ### Key Insights
 
-* Profitability is driven by **product margins**, not sales volume\\
+* Profitability is driven by **product margins**, not sales volume
 * Heavy discounting significantly reduces margins and drives losses in
-several subcategories\\
+several subcategories
 * Sales exhibit consistent **Q4 seasonality**, with peak demand in
-November and December\\
+November and December
 * Regional performance varies, with **Central underperforming relative
 to its sales volume**
 
@@ -22,13 +21,12 @@ to its sales volume**
 
 ### Recommendations
 
-* Prioritize high-margin product categories such as **Technology
-(e.g., copiers, accessories)**\\
+* Prioritize high-margin technology products such as copiers and accessories
 * Reevaluate pricing and discount strategies for loss-generating
-products (e.g., tables, bookcases)\\
-* Align inventory and logistics planning with Q4 demand peaks\\
-* Implement targeted regional strategies to improve profitability in
-underperforming regions
+products such as tables and bookcases
+* Align inventory and logistics planning with seasonal Q4 demand
+* Introduce targeted regional strategies to improve performance in regions lagging 
+in sales (South) or profit efficiency (Central).
 
 \---
 
@@ -58,9 +56,9 @@ metrics such as profit margin, sales share, and discount tiers.
 
 ### Key Metrics
 
-* **Profit Margin (%)** = Profit / Sales\\
-* **Sales Share (%)** = Category or Subcategory Sales / Total Sales\\
-* **Average Discount (%)**\\
+* **Profit Margin (%)** = Profit / Sales
+* **Sales Share (%)** = Category or Subcategory Sales / Total Sales
+* **Average Discount (%)**
 * **Discount Tier** (grouped ranges of discount levels)
 
 \---
@@ -68,8 +66,8 @@ metrics such as profit margin, sales share, and discount tiers.
 ### Limitations
 
 * Dataset is synthetic and may not fully reflect real-world pricing or
-discount behavior\\
-* Analysis is descriptive and does not establish causal relationships\\
+discount behavior
+* Analysis is descriptive and does not establish causal relationships
 * Results are aggregated and may mask variation at the individual
 product level
 
